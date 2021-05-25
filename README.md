@@ -1,4 +1,4 @@
-# Kruskal
+# Kruskal C++
 C++ realization of Kruskal's alghorithm with Union-Find structure.
 
 <a href="https://en.wikipedia.org/wiki/Kruskal%27s_algorithm">Wikipedia</a><br>
